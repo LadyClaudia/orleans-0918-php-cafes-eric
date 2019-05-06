@@ -17,7 +17,7 @@
 * Symfony 4
 
 ### Contributeurs:
-- Candice Bourgugnon - [Candicedb](https://github.com/Candicedb)
+- Candice Bourguignon - [Candicedb](https://github.com/Candicedb)
 - Mélissa Viltet - [melissaviltet](https://github.com/melissaviltet)
 - Amadou Kane - [amadrocky](https://github.com/amadrocky)
 - Julien Delbez - [Hakha44](https://github.com/Hakha44)
