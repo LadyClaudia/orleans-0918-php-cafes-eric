@@ -16,6 +16,13 @@
 * Bootstrap 4
 * Symfony 4
 
+### Contributeurs:
+- Candice Bourgugnon - [Candicedb](https://github.com/Candicedb)
+- Mélissa Viltet - [melissaviltet](https://github.com/melissaviltet)
+- Amadou Kane - [amadrocky](https://github.com/amadrocky)
+- Julien Delbez - [Hakha44](https://github.com/Hakha44)
+- Jessica Viel - [LadyClaudia](https://github.com/LadyClaudia)
+
 ## Installation du projet "Les Cafés d'Éric" :
 
 * Cloner "Les Cafés d'Éric" sur votre serveur : `https://github.com/WildCodeSchool/orleans-0918-php-cafes-eric`
