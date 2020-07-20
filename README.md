@@ -25,24 +25,24 @@
 
 ## Installation du projet "Les Cafés d'Éric" :
 
-* Cloner "Les Cafés d'Éric" sur votre serveur : `https://github.com/WildCodeSchool/orleans-0918-php-cafes-eric`
+- Cloner "Les Cafés d'Éric" sur votre serveur : `https://github.com/WildCodeSchool/orleans-0918-php-cafes-eric`
 
-* Créer un fichier .env.local à partir du fichier .env et renseigner les données suivantes :
-   *utilisateur,
-   *mot de passe,
-   *nom de la base de donnée sous ce format:`DATABASE_URL=mysql://db_user:db_password@127.0.0.1:3306/db_name`
+- Créer un fichier .env.local à partir du fichier .env et renseigner les données suivantes :
+   - utilisateur,
+   - mot de passe,
+   - nom de la base de donnée sous ce format:`DATABASE_URL=mysql://db_user:db_password@127.0.0.1:3306/db_name`
 
-* Installer Composer, avec la commande :
+- Installer Composer, avec la commande :
 `composer install`
 
-* Initialiser et installer yarn en suivant ce lien :
+- Initialiser et installer yarn en suivant ce lien :
 `https://yarnpkg.com/lang/en/docs/install/#debian-stable`
 
-* Créer une base de données, avec la commande :
+- Créer une base de données, avec la commande :
 `php bin/console doctrine:database:create`
 
-* Mettre à jour la base de données, avec la commande :
+- Mettre à jour la base de données, avec la commande :
 `php bin/console doctrine:migration:migrate`
 
-* Exécuter Webpack, avec la commande :
+- Exécuter Webpack, avec la commande :
 `yarn encore production`
