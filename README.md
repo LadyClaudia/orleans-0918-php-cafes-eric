@@ -28,9 +28,9 @@
 * Cloner "Les Cafés d'Éric" sur votre serveur : `https://github.com/WildCodeSchool/orleans-0918-php-cafes-eric`
 
 * Créer un fichier .env.local à partir du fichier .env et renseigner les données suivantes :
-   -utilisateur,
-   -mot de passe,
-   -nom de la base de donnée sous ce format:`DATABASE_URL=mysql://db_user:db_password@127.0.0.1:3306/db_name`
+   *utilisateur,
+   *mot de passe,
+   *nom de la base de donnée sous ce format:`DATABASE_URL=mysql://db_user:db_password@127.0.0.1:3306/db_name`
 
 * Installer Composer, avec la commande :
 `composer install`
